@@ -20,6 +20,7 @@
     "core-js": "^2.5.7",
     "express": "^4.17.1",
     "font-awesome": "^4.7.0",
+    "local": "^0.3.3",
     "rxjs": "^6.5.3",
     "tslib": "^1.10.0",
     "typescript": "3.5.3",
